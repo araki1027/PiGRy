@@ -1,0 +1,54 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-135deg, #eb6ea5, #fce2c4);
+}
+
+.register {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.register-button,
+.register-header {
+    text-align: center;
+}
+
+.register-button {
+    margin-top: 20px;
+}
+
+h1 {
+    color: hotpink;
+    font-size: 50px;
+    margin-bottom: -15px;
+    margin-top: 50px;
+}
+
+.register-form {
+    margin: 0 0 0 40px;
+}
+
+input {
+    width: 410px;
+    padding: 7px 5px;
+    border: 1.5px solid #e6e6e6;
+}
+
+.content {
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
+
+button {
+    padding: 8px 70px;
+    background: linear-gradient(90deg, #b7b7ff, pink);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}

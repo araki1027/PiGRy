@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: pink;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid silver;
+}
+
+.button{
+    margin: auto 0;
+}
+
+button{
+    padding: 2px 3px;
+    font-size: 16px;
+    margin-right: 20px;
+}

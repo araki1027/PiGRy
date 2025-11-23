@@ -1,0 +1,126 @@
+.weight-confirm{
+    background-color: #efefef;
+    height: 100%;
+    overflow: hidden;
+}
+
+.weight-head{
+    margin-top: 40px;   
+}
+
+.weight-table{
+    background-color: white;
+    padding: 20px 0px;
+    margin: 0px auto;
+}
+
+.weight-goal{
+    padding-left:20px ;
+}
+
+.weight-information,.weight-latest{
+    width: 150px;
+    font-size: 32px;
+    font-weight: 650;
+    padding-right:70px ;
+    padding-left:20px ;
+}
+
+.weight-information{
+    padding-right:150px;
+}
+
+span{
+    margin-left:7px ;
+    font-size: 12px;
+}
+
+.search-group{
+    display: flex;
+    justify-content:space-between;
+}
+
+.life-data{
+    width: 890px;
+    margin: 20px auto ;
+    background-color: white;
+}
+
+.search-form{
+    display: flex;
+    margin: 20px 0 0 10px;
+}
+
+input{
+    height:30px;
+    margin: 0px 10px;
+    width: 150px;
+}
+
+.search-button{
+    height: 30px;
+    width: 80px;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+p{
+    display: block;
+    margin-top:3px ;
+}
+
+.add-button{
+    margin: 20px 20px 0 0;
+    height: 35px;
+    padding: 0px 30px;
+    background: linear-gradient(90deg, #b7b7ff, pink);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+.life-table{
+    width: 870px;
+    margin: 5px 10px;
+    
+}
+
+.life-table{
+    border-collapse: collapse;
+    border-bottom: solid 1px linear-gradient(90deg, #b7b7ff, pink);
+}
+
+.life-date-head{
+    width: 100px;
+    padding-left:10px;
+    padding-right: 20px;
+}
+
+.life-date{
+    padding-left: 45px;
+}
+
+.life-weight-head{
+    width: 330px;
+}
+
+.life-weight,.life-calory,.life-time{
+    text-align: center;
+}
+
+.life-calory-head{
+    width: 170px;
+}
+
+.life-time-head{
+    width: 150px;
+}
+
+.life-changepen{
+    background: linear-gradient(90deg, #b7b7ff, pink);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}

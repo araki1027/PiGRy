@@ -1,0 +1,47 @@
+.weight-change {
+    background-color: #efefef;
+    height: 100%;
+    overflow: hidden;
+}
+
+.change-form-area{
+    background-color: white;
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom:13% ;
+    padding: 15px 0px 30px;
+}
+
+.change-form-head,.change-form-space,.change-form-button{
+    text-align: center;
+}
+
+input{
+    width: 370px;
+    padding: 7px 10px;
+    margin-top: 10px;
+    margin-bottom: 20px ;
+    border: solid 1.5px #efefef;
+}
+
+span{
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.return,.update{
+    padding: 7px 65px;
+    margin-top: 20px ;
+    border: none;
+    border-radius: 5px;
+}
+
+.return{
+    background-color: #dcdcdc;
+}
+
+.update{
+    background: linear-gradient(90deg, #b7b7ff, pink);
+    color: white;
+}
